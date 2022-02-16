@@ -3,20 +3,3 @@ author: Matthias Liffers
 email: m@tthi.as
 description: >-
   Nudis of southwest Western Australia, including allied (sea slugs) or confused (flatworms) clades.
-
-social:
-  twitter: mpfl
-  facebook: 
-  instagram: mpflx
-  github: mpfl
-  linkedin:
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-collections:
-  images:
-    output: true
